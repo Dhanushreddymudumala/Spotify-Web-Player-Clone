@@ -28,7 +28,7 @@ This project is a simple **Spotify Web Player Clone** that mimics the design and
 ## Setup & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/deshinenikarthik/Spotify-Clone---Web-Player.git
+   git clone https://github.com/Dhanushreddymudumala/Spotify-Web-Player-Clone
    ```
 2. Open `index.html` in a web browser.
 
